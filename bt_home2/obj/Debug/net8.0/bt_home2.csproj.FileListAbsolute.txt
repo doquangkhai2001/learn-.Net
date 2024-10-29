@@ -12,3 +12,4 @@ C:\Users\ADMIN\Downloads\learn-.Net\bt_home2\obj\Debug\net8.0\refint\bt_home2.dl
 C:\Users\ADMIN\Downloads\learn-.Net\bt_home2\obj\Debug\net8.0\bt_home2.pdb
 C:\Users\ADMIN\Downloads\learn-.Net\bt_home2\obj\Debug\net8.0\bt_home2.genruntimeconfig.cache
 C:\Users\ADMIN\Downloads\learn-.Net\bt_home2\obj\Debug\net8.0\ref\bt_home2.dll
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home2\obj\Debug\net8.0\bt_home2.sourcelink.json
