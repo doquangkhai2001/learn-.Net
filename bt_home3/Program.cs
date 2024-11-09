@@ -68,23 +68,23 @@
 
 // #endregion
 
-#region if else statement
-    //input 
-    Console.WriteLine("Mời bạn nhập vào số  ");
-    string? number = Console.ReadLine();
-    int formatnumber = Convert.ToInt32(number);
-    if (formatnumber %2 == 0){
-           Console.WriteLine($"Số {number}là số chẵn ");
-    }
-    else{
-        Console.WriteLine($"Số {number} là số lẻ ");
-    }
+// #region if else statement
+//     //input 
+//     Console.WriteLine("Mời bạn nhập vào số  ");
+//     string? number = Console.ReadLine();
+//     int formatnumber = Convert.ToInt32(number);
+//     if (formatnumber %2 == 0){
+//            Console.WriteLine($"Số {number}là số chẵn ");
+//     }
+//     else{
+//         Console.WriteLine($"Số {number} là số lẻ ");
+//     }
     
 
-    //process
-    //output
+//     //process
+//     //output
 
 
 
 
-#endregion
+// #endregion

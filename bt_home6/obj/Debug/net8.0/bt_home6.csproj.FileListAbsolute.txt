@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\bin\Debug\net8.0\bt_home6.exe
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\bin\Debug\net8.0\bt_home6.deps.json
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\bin\Debug\net8.0\bt_home6.runtimeconfig.json
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\bin\Debug\net8.0\bt_home6.dll
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\bin\Debug\net8.0\bt_home6.pdb
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\bt_home6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\bt_home6.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\bt_home6.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\bt_home6.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\bt_home6.sourcelink.json
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\bt_home6.dll
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\refint\bt_home6.dll
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\bt_home6.pdb
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\bt_home6.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\learn-.Net\bt_home6\obj\Debug\net8.0\ref\bt_home6.dll
