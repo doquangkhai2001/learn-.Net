@@ -1,0 +1,6 @@
+C:\Users\ADMIN\Downloads\learn-.Net\bt15\obj\Debug\net8.0\bt15.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\learn-.Net\bt15\obj\Debug\net8.0\bt15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\learn-.Net\bt15\obj\Debug\net8.0\bt15.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\learn-.Net\bt15\obj\Debug\net8.0\bt15.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\learn-.Net\bt15\obj\Debug\net8.0\bt15.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\learn-.Net\bt15\obj\Debug\net8.0\bt15.sourcelink.json
